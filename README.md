@@ -154,15 +154,6 @@ According to our impact analysis (*page 5* :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 👥 Team Atomic Engineers
-
-- **Ayush Ranjan** – Backend, Integration & Research  
-- **Himanshu Gupta** – Database, Backend & Integration  
-- **Garvi Dibas** – Backend & Frontend  
-- **Parvinder Kaur** – Frontend & App Design  
-
----
-
 ## 🚀 Future Scope
 
 - ML-based anomaly detection (advanced threat intelligence)
@@ -172,9 +163,42 @@ According to our impact analysis (*page 5* :contentReference[oaicite:1]{index=1}
 
 ---
 
-## ⭐ Acknowledgment
+## 📸 App Screenshots
 
-Built during **HackSecure '26 @ NIT Hamirpur**  
+| App Startup | Security Dashboard | Network Traffic Logs |
+|------------|------------------|---------------------|
+| <img src="Assets/Images/AppStartup.jpeg" width="250"/> | <img src="Assets/Images/Security-Dashboard.jpeg" width="250"/> | <img src="Assets/Images/Network-logs.jpeg" width="250"/> |
+
+---
+
+## 👥 Team Atomic Engineers
+
+- **Ayush Ranjan** – Backend, Integration & Research  
+- **Himanshu Gupta** – Database, Backend & Integration  
+- **Garvi Dibas** – Backend & Frontend  
+- **Parvinder Kaur** – Frontend & App Design  
+
+<p align="center">
+  <img src="Assets/Images/Team.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <em>Team Atomic Engineers at HackSecure '26, NIT Hamirpur </em>
+</p>
+
+---
+
+## 🛡️ About HackSecure '26
+
+HackSecure '26 was a cybersecurity-focused hackathon hosted at NIT Hamirpur, bringing together students and developers to solve real-world challenges in privacy, network security, and secure system design.
+
+The event aligned with national cybersecurity initiatives and is supported under the **Information Security Education and Awareness (ISEA Phase-III Project)**  program by the **Ministry of Electronics and Information Technology (MeitY), Government of India** and aimed to promote cybersecurity awareness, innovation, and skill development among students. 
+
+---
+
+## ⭐ Acknowledgement
+
+Project Built during **HackSecure '26 @ NIT Hamirpur**  
 Team: *Atomic Engineers*
 
 ---
